@@ -43,7 +43,7 @@ tl.from('.left-lower-discover', {
     scrollTrigger: {
         trigger: '.left-lower-discover',
         scroller: 'body',
-        markers: true,
+        // markers: true,
         start: "200px 700px",
         end: "0px 400px",
         scrub: 2
@@ -56,7 +56,7 @@ tl.from('.right-lower-discover', {
     scrollTrigger: {
         trigger: '.right-lower-discover',
         scroller: 'body',
-        markers: true,
+        // markers: true,
         start: "200px 700px",
         end: "0px 400px",
         scrub: 2
